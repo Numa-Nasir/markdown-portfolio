@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of nature](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewK3u2_WzvEsmzQ0IcXJvZxI5SAOmRFpvJw&usqp=CAU)
